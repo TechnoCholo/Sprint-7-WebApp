@@ -53,4 +53,4 @@ Streamlit proporcionará una dirección local para acceder a la aplicación desd
 
 La aplicación está desplegada en Render y puede consultarse desde cualquier navegador:
 
-**[PEGAR AQUÍ EL ENLACE PÚBLICO DE RENDER]**
+https://sprint-7-webapp.onrender.com/
